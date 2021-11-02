@@ -7,9 +7,9 @@
 
 
 
+## About me: 🧏🏽
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=mirellacodes&color=670067&style=plastic&label=VISITORS"/>  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mirellacodes/mirellacodes?logo=markdown&label=LAST+UPDATE&color=670067&style=plastic">
 
-## About me: 🧏🏽
 
   <ul>
   <li> 👩🏽‍🎓 I'm a student at <a href=https://www.schoolofcode.co.uk> School of Code </a> </li>
