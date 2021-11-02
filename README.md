@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B582F7&size=50&width=770&height=80&lines=Hey!+I'm+Mirella)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mirella-nathina">
     <img src="https://user-images.githubusercontent.com/86558397/139915015-f8791665-f0ad-47dc-a4bc-9ae0e5bad202.png" alt="LinkedIn profile - Mirella Nathina" title="LinkedIn"></a> <a href="https://twitter.com/mirellacodes">
