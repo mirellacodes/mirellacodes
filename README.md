@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B582F7&size=50&width=770&height=80&lines=Hey!+I'm+Mirella)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mirella-nathina">
-    <img src="https://user-images.githubusercontent.com/86558397/139915015-f8791665-f0ad-47dc-a4bc-9ae0e5bad202.png" alt="LinkedIn profile - Mirella Nathina" title="LinkedIn"></a> <a href="https://twitter.com/mirellacodes">
-    <img src="https://user-images.githubusercontent.com/86558397/139915298-e346b52c-ca62-41db-a9ff-bb258a73607d.png" alt="Twitter profile - @mirellcodes" title="Twitter"></a> 
-
-
-
 ## About me: 🧏🏽
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=mirellacodes&color=670067&style=plastic&label=VISITORS"/>  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mirellacodes/mirellacodes?logo=markdown&label=LAST+UPDATE&color=670067&style=plastic">
 
@@ -28,3 +21,12 @@
 
 <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api?username=mirellacodes&show_icons=true&theme=synthwave" /> 
 
+ ## Connect me on:
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/mirella-nathina">
+    <img src="https://user-images.githubusercontent.com/86558397/139915015-f8791665-f0ad-47dc-a4bc-9ae0e5bad202.png" alt="LinkedIn profile - Mirella Nathina" title="LinkedIn"></a> <a href="https://twitter.com/mirellacodes">
+    <img src="https://user-images.githubusercontent.com/86558397/139915298-e346b52c-ca62-41db-a9ff-bb258a73607d.png" alt="Twitter profile - @mirellcodes" title="Twitter"></a> 
+
+
+  
