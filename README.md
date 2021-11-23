@@ -6,7 +6,7 @@
 
   <ul>
   <li> 👩🏽‍🎓 I'm a student at <a href=https://www.schoolofcode.co.uk> School of Code </a> </li>
-  <li> 🖥️ Currently learning HTML, CSS and Javascript </li>
+  <li> 🖥️ Currently learning HTML, CSS and JavaScript </li>
   <li> 📧 You can reach me via email: mirellacodes@gmail.com </li>
         </ul>
      
