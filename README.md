@@ -6,7 +6,7 @@
 
   <ul>
   <li> 👩🏽‍🎓 I'm a student at <a href=https://www.schoolofcode.co.uk> School of Code </a> </li>
-  <li> 🖥️ Currently learning HTML, CSS and JavaScript </li>
+  <li> 🖥️ Currently learning PostgreSQL, React and Node.js </li>
   <li> 📧 You can reach me via email: mirellacodes@gmail.com </li>
         </ul>
      
@@ -20,6 +20,8 @@
 <br>
 
 <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api?username=mirellacodes&show_icons=true&theme=synthwave" /> 
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirellacodes&layout=compact)](https://github.com/mirellacodes/github-readme-stats)
 
  ## Connect me on:
 
