@@ -6,7 +6,7 @@
 
   <ul>
   <li> 👩🏽‍🎓 I'm a student at <a href=https://www.schoolofcode.co.uk> School of Code </a> </li>
-  <li> 🖥️ Currently learning PostgreSQL, React and Node.js </li>
+  <li> 🖥️ Currently learning PostgreSQL, Next.js and TypeScript </li>
   <li> 📧 You can reach me via email: mirellacodes@gmail.com </li>
         </ul>
      
