@@ -5,9 +5,9 @@
 
 
   <ul>
-  <li> 👩🏽‍🎓 I'm a student at <a href=https://www.schoolofcode.co.uk> School of Code </a> </li>
-  <li> 🖥️ Currently learning PostgreSQL, Next.js and TypeScript </li>
-  <li> 📧 You can reach me via email: mirellacodes@gmail.com </li>
+  <li> 👩🏽‍🎓 I'm a software engineer at <a href=https://www.baesystems.com/en/digital/home> BAE Systems </a> </li>
+  <li> 🖥️ Currently learning C#, .NET, Oracle SQL/PL </li>
+  <li> 📧 You can reach me via email: mirellanats@gmail.com </li>
         </ul>
      
 
