@@ -5,7 +5,7 @@
 
 
   <ul>
-  <li> 👩🏽‍🎓 I'm a salesforce developer at <a href=https://www.accenture.com/sg-en/about/company-index> Accenture </a> </li>
+  <li> 👩🏽‍🎓 I'm a Salesforce Developer at <a href=https://www.accenture.com/sg-en/about/company-index> Accenture </a> </li>
   <li> 🖥️ Currently learning Public Sector Solutions, Apex, Omnistudio </li>
   <li> 📧 You can reach me via email: mirellanats@gmail.com </li>
         </ul>
